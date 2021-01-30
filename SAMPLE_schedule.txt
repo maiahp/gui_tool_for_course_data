@@ -1,0 +1,26 @@
+CRN    |  Course ID     |  Status  |  Course Name                                                                     |  Date   |  Time               |  Professor                      |  Location  |  Units
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  937  |  GERM 3-61     |  Open    |  Elementary German (Third Quarter)                                               |  TR     |  06:30 PM-08:45 PM  |  Maike Ahrends                  |    L82     |  5.0
+
+Course Description: Further development of material presented in GERM 1 and 2. Completion of introduction to the language and cultures of the German-speaking countries. Basic speaking, listening, reading and writing of German will be introduced and practiced within a cultural framework. Emphasis will be on language as an expression of culture. Language laboratory practice to reinforce pronunciation, grammar and syntax.
+
+Course Prerequisites: EWRT 211 and READ 211 (or LART 211), or ESL 272 and 273.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 1139  |  JOUR 2-01     |  Open    |  Mass Communication and Its Impact On Society                                    |  MW     |  09:30 AM-11:20 AM  |  Sunny Malatesta                |    L42     |  4.0
+
+Course Description: A survey of the mass media and measurement of its impact on culture and society. Mass media effects on global and American institutions. Theories of mass communications in the context of each medium: books, newspapers, magazines, movies, radio, recordings, television and the Internet. Ethical and legal implications of media and their effects on the individual and society. Influences of the media on gender, ethnic and minority issues.
+
+Course Prerequisites: EWRT 1A or EWRT 1AH or ESL 5.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 1137  |  JOUR 2-02Y    |  Open    |  Mass Communication and Its Impact On Society                                    |  M      |  11:30 AM-01:20 PM  |  Farideh Dada                   |    L42     |  4.0
+
+Course Description: A survey of the mass media and measurement of its impact on culture and society. Mass media effects on global and American institutions. Theories of mass communications in the context of each medium: books, newspapers, magazines, movies, radio, recordings, television and the Internet. Ethical and legal implications of media and their effects on the individual and society. Influences of the media on gender, ethnic and minority issues.
+
+Course Prerequisites: EWRT 1A or EWRT 1AH or ESL 5.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+45168  |  JOUR 2-64Z    |  WL      |  Mass Communication and Its Impact On Society                                    |         |  TBA-TBA            |  Gail McElroy                   |   ONLINE   |  4.0
+
+Course Description: A survey of the mass media and measurement of its impact on culture and society. Mass media effects on global and American institutions. Theories of mass communications in the context of each medium: books, newspapers, magazines, movies, radio, recordings, television and the Internet. Ethical and legal implications of media and their effects on the individual and society. Influences of the media on gender, ethnic and minority issues.
+
+Course Prerequisites: EWRT 1A or EWRT 1AH or ESL 5.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,38 @@
+CRN    |  Course ID     |  Status  |  Course Name                                                                     |  Date   |  Time               |  Professor                      |  Location  |  Units
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10246  |  CIS 2-61Z     |  Open    |  Computers and the Internet in Society                                           |         |  TBA-TBA            |  Valerie Taylor                 |   ONLINE   |  4.0
+
+Course Description: A critical examination of the capabilities and uses of the Internet, computers and cellular communications, and how they are changing business, law, politics, health, education, entertainment, and society.
+
+Course Prerequisites: EWRT 211 and READ 211 (or LART 211), or ESL 272 and 273.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10663  |  CIS 3-61Y     |  Open    |  Business Information Systems                                                    |  TR     |  06:00 PM-09:50 PM  |  Hoang Nguyen                   |   AT204    |  4.5
+
+Course Description: Introduction to management information systems, systems design and development, data communications, data management, office automation, computer hardware and software concepts. Use of common software packages for business applications including word processing, spreadsheets, database, and Internet web tools.
+
+Course Prerequisites: EWRT 211 and READ 211 (or LART 211), or ESL 272 and 273.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  227  |  CIS 3-61Z     |  Open    |  Business Information Systems                                                    |         |  TBA-TBA            |  Spera Georgiou                 |   ONLINE   |  4.5
+
+Course Description: Introduction to management information systems, systems design and development, data communications, data management, office automation, computer hardware and software concepts. Use of common software packages for business applications including word processing, spreadsheets, database, and Internet web tools.
+
+Course Prerequisites: EWRT 211 and READ 211 (or LART 211), or ESL 272 and 273.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12020  |  CIS 3-65Z     |  Open    |  Business Information Systems                                                    |         |  TBA-TBA            |  Spera Georgiou                 |   ONLINE   |  4.5
+
+Course Description: Introduction to management information systems, systems design and development, data communications, data management, office automation, computer hardware and software concepts. Use of common software packages for business applications including word processing, spreadsheets, database, and Internet web tools.
+
+Course Prerequisites: EWRT 211 and READ 211 (or LART 211), or ESL 272 and 273.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+11529  |  CIS 4-61Z     |  Open    |  Computer Literacy                                                               |         |  TBA-TBA            |  Maryann May-Pumphrey           |   ONLINE   |  4.5
+
+Course Description: Introduction to basic computer literacy concepts. History of the computer, hardware, software, operating system mechanics, system management utilities, basics of networking and the internet. The social impact and future of computers for communication systems are discussed along with an overview of basic security and privacy concerns. An integrated software package for word processing, spreadsheets, databases, e-mail, Internet and presentations are introduced.
+
+Course Prerequisites: EWRT 1A or EWRT 1AH or ESL 5. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10680  |  CIS 18A-61Y   |  Open    |  Introduction to Unix/Linux                                                      |  MW     |  06:00 PM-09:50 PM  |  Kevin Metcalf                  |   AT205    |  4.5
+
+Course Description: Introduction to the features of the Unix/Linux operating system including text editing, text file manipulation, electronic mail, Internet utilities, directory structures, input/output handling, and shell features.
+
+Course Prerequisites: EWRT 211 and READ 211 (or LART 211), or ESL 272 and 273; CIS 4.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
